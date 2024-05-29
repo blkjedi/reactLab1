@@ -5,7 +5,8 @@ import Employee from "./Employee";
     width: 80%;
     margin: auto;
     text-align: center;
-    border: solid 1px blue;
+    border: solid 2px purple;
+    padding: 3px
 
 `;
 
