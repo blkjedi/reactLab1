@@ -7,7 +7,8 @@ export const Container = styled.div`
   
   display: flex;
   border: solid 1px red;
-  padding: 1px
+  padding: 1px;
+  margin-bottom: 1em;
 `;
 const EmployeeImg = styled.img`
   width: 100px;

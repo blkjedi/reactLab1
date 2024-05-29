@@ -7,6 +7,7 @@ const Container = styled.div`
 
   border: solid 2px blue;
   padding: 3px;
+  margin-bottom: 1em;
 `;
 
 
