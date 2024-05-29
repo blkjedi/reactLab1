@@ -5,7 +5,7 @@ const Container = styled.div`
   margin: auto;
   text-align: center;
   display: flex;
-  border: solid 2px green;
+  border: solid 3px green;
   padding: 3px;
   margin-bottom: 1em;
 `;

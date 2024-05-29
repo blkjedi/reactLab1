@@ -5,7 +5,7 @@ const Container = styled.div`
   margin: auto;
   text-align: center;
 
-  border: solid 2px blue;
+  border: solid 3px blue;
   padding: 3px;
   margin-bottom: 1em;
 `;

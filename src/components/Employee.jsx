@@ -6,8 +6,8 @@ export const Container = styled.div`
 //   margin: 15px;
   
   display: flex;
-  border: solid 1px red;
-  padding: 1px;
+  border: solid 3px red;
+  padding: 3px;
   margin-bottom: 1em;
 `;
 const EmployeeImg = styled.img`
